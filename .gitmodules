@@ -1,0 +1,6 @@
+[submodule "bootcamp-inter-back"]
+	path = bootcamp-inter-back
+	url = https://github.com/guipiri/bootcamp-inter-back.git
+[submodule "bootcamp-inter-front"]
+	path = bootcamp-inter-front
+	url = https://github.com/guipiri/bootcamp-inter-front.git
